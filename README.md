@@ -7,7 +7,7 @@ This repository contains my weekly project submissions for the Data Science with
 | Week | Topic | Status |
 |------|-------|--------|
 | Week 1 | Python for Data Science Basics — Student Marks Dataset Analysis | ✅ Completed |
-| Week 2 | *(to be updated)* | 🔒 Locked |
+| Week 2 | Data Visualization — COVID-19 EDA (Matplotlib/Seaborn) | ✅ Completed |
 | Week 3 | *(to be updated)* | 🔒 Locked |
 | Week 4 | *(to be updated)* | 🔒 Locked |
 
